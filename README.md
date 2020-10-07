@@ -2,7 +2,7 @@
 
 Um simples formulário para aprender a utilizar o Unform junto com Yup;
 
-![demo](./readme\demo.png)
+![demo](readme/demo.png)
 
 **Demo:** [unform-viniciusmazon.netlify.app](https://unform-viniciusmazon.netlify.app/)
 
